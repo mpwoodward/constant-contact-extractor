@@ -1,0 +1,5 @@
+awesome-slugify==1.6.5
+envparse==0.2.0
+pdfkit==0.6.1
+python-dateutil==2.6.1
+requests==2.18.4
